@@ -1,0 +1,4 @@
+- History area to mark any major changes. (Update before making any major changes)
+- installed Flask
+- installed sqlalchemy
+- 
